@@ -1,7 +1,7 @@
 ### Olá! Seja bem vindo ao meu perfil! 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reiesal)](https://github.com/reiesal/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reiesal&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
